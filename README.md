@@ -1,8 +1,15 @@
 # Project Title
 
 ## Description
-*Insert here a brief description of the project, including, purpose, technologies used and context 
-where it was created.*
+Poder responder la pregunta ¿Qué estrategia de inversión propondrías si tu trabajo fuera administrar 1 Millón de pesos?
+
+## Funcionalities
+
+- df_ pasiva
+- df_activa
+- operaciones activa
+- comparación activa vs pasiva
+- medidas de desempeño
 
 ## Install dependencies
 
@@ -10,15 +17,8 @@ Install all the dependencies stated in the requirements.txt file, just run the f
 
         pip install -r requirements.txt
         
-Or you can manually install one by one using the name and version in the file.
-
-## Funcionalities
-
-*Add here examples of core functionalities for the project in this repository.*
-
 ## Author
-*Add Name and a brief description on who you are.*
-
+Job Ramírez Cambero - Estudiante 9no Semestre de Ingeniería financiera
 ## License
 **GNU General Public License v3.0** 
 
@@ -28,4 +28,4 @@ works using a licensed work, under the same license. Copyright and license notic
 must be preserved. Contributors provide an express grant of patent rights.*
 
 ## Contact
-*For more information in reggards of this repo, please contact name@email.com*
+if708361@iteso.mx
